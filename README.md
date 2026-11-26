@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b150.zip](releases/agents-of-claude-world-b150.zip) (latest: Every character in a family levels on its own.)
+- [agents-of-claude-world-b151.zip](releases/agents-of-claude-world-b151.zip) (latest: Fix: Claude calls failed for every character once a family had two.)
+- [agents-of-claude-world-b150.zip](releases/agents-of-claude-world-b150.zip)
 - [agents-of-claude-world-b149.zip](releases/agents-of-claude-world-b149.zip)
 - [agents-of-claude-world-b148.zip](releases/agents-of-claude-world-b148.zip)
 - [agents-of-claude-world-b147.zip](releases/agents-of-claude-world-b147.zip)

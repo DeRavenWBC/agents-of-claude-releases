@@ -1,8 +1,8 @@
 {
-  "build": 150,
-  "zip": "releases/agents-of-claude-world-b150.zip",
-  "sha256": "79abf439c75760c41d5481d760d13f404bfd261a954ea5eb203010dfdb08c171",
-  "at": "2026-11-26T10:14:42.656Z",
-  "notes": "Every character in a family levels on its own.",
+  "build": 151,
+  "zip": "releases/agents-of-claude-world-b151.zip",
+  "sha256": "e306966dd557e5693238f8e7e24cf49d2a818af0ff847af057677d2dbe94131e",
+  "at": "2026-11-26T10:24:27.607Z",
+  "notes": "Fix: Claude calls failed for every character once a family had two.",
   "minPlugin": "0.6.3"
 }
