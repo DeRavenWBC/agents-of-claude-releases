@@ -1,8 +1,8 @@
 {
-  "build": 141,
-  "zip": "releases/agents-of-claude-world-b141.zip",
-  "sha256": "860883a42081af59ddd465ad0cf7adc5a9604d532690eebef3cabf5e3e8e61d3",
-  "at": "2026-11-26T07:26:36.505Z",
-  "notes": "First public release: live world boss, hosted worlds, security hardening.",
+  "build": 142,
+  "zip": "releases/agents-of-claude-world-b142.zip",
+  "sha256": "fc67b275d108eb1c974ddd4d82769c86d1536f768a209298eb3163bfdf3776af",
+  "at": "2026-11-26T07:28:18.635Z",
+  "notes": "No gameplay changes.",
   "minPlugin": "0.6.2"
 }

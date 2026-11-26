@@ -24,4 +24,5 @@ The game tells its owner on the Home page when a newer build is out (it checks `
 
 <!-- releases -->
 
-- [agents-of-claude-world-b141.zip](releases/agents-of-claude-world-b141.zip) (latest: First public release: live world boss, hosted worlds, security hardening.)
+- [agents-of-claude-world-b142.zip](releases/agents-of-claude-world-b142.zip) (latest: No gameplay changes.)
+- [agents-of-claude-world-b141.zip](releases/agents-of-claude-world-b141.zip)
