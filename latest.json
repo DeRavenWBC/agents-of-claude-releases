@@ -1,8 +1,8 @@
 {
-  "build": 154,
-  "zip": "releases/agents-of-claude-world-b154.zip",
-  "sha256": "62a41d00761bf4fc5aa075adb24a1fad86731062c32b1d28a77c409caadb044d",
-  "at": "2026-11-26T11:03:10.936Z",
-  "notes": "The Necromancer's skeletons and golem draw monsters off him; battles show up to seven fighters a side.",
+  "build": 155,
+  "zip": "releases/agents-of-claude-world-b155.zip",
+  "sha256": "2dc13a65a32c50184f8173079b1d476d272f77aecbc41c5785f6e87ba752672b",
+  "at": "2026-11-26T12:22:36.643Z",
+  "notes": "Swarms (ten-creature fights) and new mobs, a minion area on the battlefield with grouped labels, and abandoning a trip early.",
   "minPlugin": "0.6.3"
 }
