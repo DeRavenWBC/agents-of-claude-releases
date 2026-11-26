@@ -118,7 +118,9 @@ account that it cannot write another player's document.
 The game is not open source. Its `LICENSE` (in every release and at the top of the releases repository) lets you host
 **unmodified** official releases for your own organization, free of charge. Only the game's author may change it; the
 host tooling's own steps (setting the clock and the list of trusted records) are the only changes allowed. You may not
-redistribute it or publish it for anyone outside your organization. The Claude Code plugin has its own licence (MIT).
+redistribute it or publish it for anyone outside your organization. The Claude Code plugin has a matching licence: install
+and use it unmodified from its official marketplace; only the author may change it, and it may not be forked or
+redistributed.
 
 ## What players should know
 

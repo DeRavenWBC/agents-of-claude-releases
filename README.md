@@ -31,7 +31,8 @@ the permission set it needs, `MANIFEST.json` with a SHA-256 of every file, `HOST
 ## Licence
 
 All rights reserved. Organizations may host **unmodified** releases for their own members, free of charge; only the
-author may change the game. See [LICENSE](LICENSE). The Claude Code plugin has its own licence (MIT).
+author may change the game. See [LICENSE](LICENSE). The Claude Code plugin has a matching licence: install and use it
+unmodified from its official marketplace; only the author may change it.
 
 ## Releases
 
