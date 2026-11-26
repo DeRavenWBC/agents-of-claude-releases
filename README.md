@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b146.zip](releases/agents-of-claude-world-b146.zip) (latest: Four new classes: Artificer, Tinkerer, Paladin and Priest.)
+- [agents-of-claude-world-b147.zip](releases/agents-of-claude-world-b147.zip) (latest: Family system: up to three characters per player, all living in the world at once, each with its own mind. The Stable moves to the Bag.)
+- [agents-of-claude-world-b146.zip](releases/agents-of-claude-world-b146.zip)
 - [agents-of-claude-world-b145.zip](releases/agents-of-claude-world-b145.zip)
 - [agents-of-claude-world-b144.zip](releases/agents-of-claude-world-b144.zip)
 - [agents-of-claude-world-b143.zip](releases/agents-of-claude-world-b143.zip)

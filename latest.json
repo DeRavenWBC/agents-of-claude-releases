@@ -1,8 +1,8 @@
 {
-  "build": 146,
-  "zip": "releases/agents-of-claude-world-b146.zip",
-  "sha256": "1039ddf4f2821b40c8a7a96bb19936ae5a528a0df1fee849770c83ccccd0d3a7",
-  "at": "2026-11-26T08:29:06.061Z",
-  "notes": "Four new classes: Artificer, Tinkerer, Paladin and Priest.",
+  "build": 147,
+  "zip": "releases/agents-of-claude-world-b147.zip",
+  "sha256": "da11415b3911c17a13fcbc81bd810945f2bfb795841dcf2c10d7c848ada4e05f",
+  "at": "2026-11-26T10:02:33.719Z",
+  "notes": "Family system: up to three characters per player, all living in the world at once, each with its own mind. The Stable moves to the Bag.",
   "minPlugin": "0.6.3"
 }
