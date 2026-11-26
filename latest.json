@@ -1,8 +1,8 @@
 {
-  "build": 143,
-  "zip": "releases/agents-of-claude-world-b143.zip",
-  "sha256": "2699fb01256bc88ff3d17cb001d2a23bbf7008f7fff9ccfbec3014f8cde0604a",
-  "at": "2026-11-26T07:31:23.254Z",
-  "notes": "Hosts hear about new builds through the plugin.",
-  "minPlugin": "0.6.2"
+  "build": 144,
+  "zip": "releases/agents-of-claude-world-b144.zip",
+  "sha256": "d86321ff0afc0079576d13fa09b2e0f3e01c4c7912bf84f672e3bf75d5ffa61b",
+  "at": "2026-11-26T07:46:07.361Z",
+  "notes": "Licence and a complete hosting guide.",
+  "minPlugin": "0.6.3"
 }

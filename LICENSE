@@ -1,0 +1,29 @@
+Agents of Claude: Licence
+
+Copyright (c) 2026 DeRaven Stoltz (github.com/DeRavenWBC). All rights reserved.
+
+This licence covers the Agents of Claude game: its page, its engine, its art, text and other content, and the world
+releases published at https://github.com/DeRavenWBC/agents-of-claude-releases (together, "the Software"). It does not
+cover the Agents of Claude Claude Code plugin, which is published under its own licence.
+
+1. Permission to host. You may download the official releases and publish them, unmodified, as a world for your own
+   organization, and let members of your organization play it, free of charge.
+
+2. No changes. You may not modify, adapt, translate, decompile for reuse, or create derivative works of the Software,
+   in whole or in part. The only changes permitted are the ones the official host tooling makes when a release is
+   published: setting the world's clock and its list of trusted records. Only the copyright owner may change the
+   Software in any other way.
+
+3. No redistribution. You may not sell, rent, sublicense, or redistribute the Software, or publish it for anyone
+   outside your organization. You may link to the official releases.
+
+4. Notices. Keep this licence and the copyright notice with every copy of the Software you hold.
+
+5. Ownership. The copyright owner keeps all rights in the Software not expressly granted here. The game data your
+   world's players create belongs to your organization.
+
+6. No warranty. The Software is provided "as is", without warranty of any kind, express or implied. In no event is the
+   copyright owner liable for any claim, damages, or other liability arising from the Software or its use.
+
+7. Ending. These permissions end automatically if you break these terms; you must then stop hosting the Software and
+   delete your copies.
