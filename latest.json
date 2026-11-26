@@ -1,8 +1,8 @@
 {
-  "build": 153,
-  "zip": "releases/agents-of-claude-world-b153.zip",
-  "sha256": "4e7578e6876bc6f2c6fcef15a6b5cfa526993d069fa26b6cb11868c395996de2",
-  "at": "2026-11-26T10:49:20.598Z",
-  "notes": "Rules epoch 14: the Necromancer keeps four minions, but they hit softer.",
+  "build": 154,
+  "zip": "releases/agents-of-claude-world-b154.zip",
+  "sha256": "62a41d00761bf4fc5aa075adb24a1fad86731062c32b1d28a77c409caadb044d",
+  "at": "2026-11-26T11:03:10.936Z",
+  "notes": "The Necromancer's skeletons and golem draw monsters off him; battles show up to seven fighters a side.",
   "minPlugin": "0.6.3"
 }

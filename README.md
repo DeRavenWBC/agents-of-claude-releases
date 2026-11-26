@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b153.zip](releases/agents-of-claude-world-b153.zip) (latest: Rules epoch 14: the Necromancer keeps four minions, but they hit softer.)
+- [agents-of-claude-world-b154.zip](releases/agents-of-claude-world-b154.zip) (latest: The Necromancer's skeletons and golem draw monsters off him; battles show up to seven fighters a side.)
+- [agents-of-claude-world-b153.zip](releases/agents-of-claude-world-b153.zip)
 - [agents-of-claude-world-b152.zip](releases/agents-of-claude-world-b152.zip)
 - [agents-of-claude-world-b151.zip](releases/agents-of-claude-world-b151.zip)
 - [agents-of-claude-world-b150.zip](releases/agents-of-claude-world-b150.zip)
