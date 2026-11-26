@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b152.zip](releases/agents-of-claude-world-b152.zip) (latest: Rules epoch 13: the Necromancer commands up to four minions, the fallen rise, and the ultimate calls the Beloved. The Tinkerer can have one of each robot at once. Update within the week.)
+- [agents-of-claude-world-b153.zip](releases/agents-of-claude-world-b153.zip) (latest: Rules epoch 14: the Necromancer keeps four minions, but they hit softer.)
+- [agents-of-claude-world-b152.zip](releases/agents-of-claude-world-b152.zip)
 - [agents-of-claude-world-b151.zip](releases/agents-of-claude-world-b151.zip)
 - [agents-of-claude-world-b150.zip](releases/agents-of-claude-world-b150.zip)
 - [agents-of-claude-world-b149.zip](releases/agents-of-claude-world-b149.zip)
