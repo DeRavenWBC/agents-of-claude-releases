@@ -1,8 +1,8 @@
 {
-  "build": 144,
-  "zip": "releases/agents-of-claude-world-b144.zip",
-  "sha256": "d86321ff0afc0079576d13fa09b2e0f3e01c4c7912bf84f672e3bf75d5ffa61b",
-  "at": "2026-11-26T07:46:07.361Z",
-  "notes": "Licence and a complete hosting guide.",
+  "build": 145,
+  "zip": "releases/agents-of-claude-world-b145.zip",
+  "sha256": "52969fa9ae56980d42cdd62a81e277a3a4c909d1bbffe7d20a38480d840beb37",
+  "at": "2026-11-26T08:15:41.624Z",
+  "notes": "Three new classes: Death Knight, Necromancer and Bard.",
   "minPlugin": "0.6.3"
 }
