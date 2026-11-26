@@ -1,8 +1,8 @@
 {
-  "build": 147,
-  "zip": "releases/agents-of-claude-world-b147.zip",
-  "sha256": "da11415b3911c17a13fcbc81bd810945f2bfb795841dcf2c10d7c848ada4e05f",
-  "at": "2026-11-26T10:02:33.719Z",
-  "notes": "Family system: up to three characters per player, all living in the world at once, each with its own mind. The Stable moves to the Bag.",
+  "build": 148,
+  "zip": "releases/agents-of-claude-world-b148.zip",
+  "sha256": "fd104c6335addc20a3534c8a9572f1985b626258384982b1fe2d845bd95fc878",
+  "at": "2026-11-26T10:04:21.789Z",
+  "notes": "The Stable is its own tab under Bag.",
   "minPlugin": "0.6.3"
 }
