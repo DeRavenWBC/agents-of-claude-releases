@@ -17,12 +17,13 @@ newest one and its checksum.
 
 ## Update a world
 
-The game tells its owner on the Home page when a newer build is out (it checks `latest.json` here once a day). Run
+When the host syncs their XP (`/agents-of-claude:quest-sync`, which Claude runs about once a day), the plugin checks `latest.json` here and the game tells the host on its Home page that a newer build is out. Run
 `/agents-of-claude:host` again and choose "update": your world's records, clock and permission set carry over.
 
 ## Releases
 
 <!-- releases -->
 
-- [agents-of-claude-world-b142.zip](releases/agents-of-claude-world-b142.zip) (latest: No gameplay changes.)
+- [agents-of-claude-world-b143.zip](releases/agents-of-claude-world-b143.zip) (latest: Hosts hear about new builds through the plugin.)
+- [agents-of-claude-world-b142.zip](releases/agents-of-claude-world-b142.zip)
 - [agents-of-claude-world-b141.zip](releases/agents-of-claude-world-b141.zip)

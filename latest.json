@@ -1,8 +1,8 @@
 {
-  "build": 142,
-  "zip": "releases/agents-of-claude-world-b142.zip",
-  "sha256": "fc67b275d108eb1c974ddd4d82769c86d1536f768a209298eb3163bfdf3776af",
-  "at": "2026-11-26T07:28:18.635Z",
-  "notes": "No gameplay changes.",
+  "build": 143,
+  "zip": "releases/agents-of-claude-world-b143.zip",
+  "sha256": "2699fb01256bc88ff3d17cb001d2a23bbf7008f7fff9ccfbec3014f8cde0604a",
+  "at": "2026-11-26T07:31:23.254Z",
+  "notes": "Hosts hear about new builds through the plugin.",
   "minPlugin": "0.6.2"
 }
