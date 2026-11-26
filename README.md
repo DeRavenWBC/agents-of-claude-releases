@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b145.zip](releases/agents-of-claude-world-b145.zip) (latest: Three new classes: Death Knight, Necromancer and Bard.)
+- [agents-of-claude-world-b146.zip](releases/agents-of-claude-world-b146.zip) (latest: Four new classes: Artificer, Tinkerer, Paladin and Priest.)
+- [agents-of-claude-world-b145.zip](releases/agents-of-claude-world-b145.zip)
 - [agents-of-claude-world-b144.zip](releases/agents-of-claude-world-b144.zip)
 - [agents-of-claude-world-b143.zip](releases/agents-of-claude-world-b143.zip)
 - [agents-of-claude-world-b142.zip](releases/agents-of-claude-world-b142.zip)
