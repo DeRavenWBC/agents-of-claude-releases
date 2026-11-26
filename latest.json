@@ -1,8 +1,8 @@
 {
-  "build": 151,
-  "zip": "releases/agents-of-claude-world-b151.zip",
-  "sha256": "e306966dd557e5693238f8e7e24cf49d2a818af0ff847af057677d2dbe94131e",
-  "at": "2026-11-26T10:24:27.607Z",
-  "notes": "Fix: Claude calls failed for every character once a family had two.",
+  "build": 152,
+  "zip": "releases/agents-of-claude-world-b152.zip",
+  "sha256": "011af2334343cf794f31ca117655684065f21c745f36f27cee1ccf0f2e4f5a6d",
+  "at": "2026-11-26T10:40:41.718Z",
+  "notes": "Rules epoch 13: the Necromancer commands up to four minions, the fallen rise, and the ultimate calls the Beloved. The Tinkerer can have one of each robot at once. Update within the week.",
   "minPlugin": "0.6.3"
 }
