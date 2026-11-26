@@ -1,8 +1,8 @@
 {
-  "build": 149,
-  "zip": "releases/agents-of-claude-world-b149.zip",
-  "sha256": "f12ab8df381f14120feb8113cc524d5418174d2085d1f8fe9f3139703cedd4a8",
-  "at": "2026-11-26T10:05:11.524Z",
-  "notes": "Family is the second tab in the menu.",
+  "build": 150,
+  "zip": "releases/agents-of-claude-world-b150.zip",
+  "sha256": "79abf439c75760c41d5481d760d13f404bfd261a954ea5eb203010dfdb08c171",
+  "at": "2026-11-26T10:14:42.656Z",
+  "notes": "Every character in a family levels on its own.",
   "minPlugin": "0.6.3"
 }
