@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b148.zip](releases/agents-of-claude-world-b148.zip) (latest: The Stable is its own tab under Bag.)
+- [agents-of-claude-world-b149.zip](releases/agents-of-claude-world-b149.zip) (latest: Family is the second tab in the menu.)
+- [agents-of-claude-world-b148.zip](releases/agents-of-claude-world-b148.zip)
 - [agents-of-claude-world-b147.zip](releases/agents-of-claude-world-b147.zip)
 - [agents-of-claude-world-b146.zip](releases/agents-of-claude-world-b146.zip)
 - [agents-of-claude-world-b145.zip](releases/agents-of-claude-world-b145.zip)

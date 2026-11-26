@@ -1,8 +1,8 @@
 {
-  "build": 148,
-  "zip": "releases/agents-of-claude-world-b148.zip",
-  "sha256": "fd104c6335addc20a3534c8a9572f1985b626258384982b1fe2d845bd95fc878",
-  "at": "2026-11-26T10:04:21.789Z",
-  "notes": "The Stable is its own tab under Bag.",
+  "build": 149,
+  "zip": "releases/agents-of-claude-world-b149.zip",
+  "sha256": "f12ab8df381f14120feb8113cc524d5418174d2085d1f8fe9f3139703cedd4a8",
+  "at": "2026-11-26T10:05:11.524Z",
+  "notes": "Family is the second tab in the menu.",
   "minPlugin": "0.6.3"
 }
