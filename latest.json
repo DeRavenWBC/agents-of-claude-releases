@@ -1,8 +1,8 @@
 {
-  "build": 155,
-  "zip": "releases/agents-of-claude-world-b155.zip",
-  "sha256": "2dc13a65a32c50184f8173079b1d476d272f77aecbc41c5785f6e87ba752672b",
-  "at": "2026-11-26T12:22:36.643Z",
-  "notes": "Swarms (ten-creature fights) and new mobs, a minion area on the battlefield with grouped labels, and abandoning a trip early.",
+  "build": 156,
+  "zip": "releases/agents-of-claude-world-b156.zip",
+  "sha256": "9a4aed554f3e541ba42d9fe7df935379adcbf12c226b5f98d642b95e824b8924",
+  "at": "2026-11-26T12:25:59.730Z",
+  "notes": "The world boss's size is set when its week begins; characters created mid-week no longer grow it.",
   "minPlugin": "0.6.3"
 }

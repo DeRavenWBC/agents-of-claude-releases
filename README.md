@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b155.zip](releases/agents-of-claude-world-b155.zip) (latest: Swarms (ten-creature fights) and new mobs, a minion area on the battlefield with grouped labels, and abandoning a trip early.)
+- [agents-of-claude-world-b156.zip](releases/agents-of-claude-world-b156.zip) (latest: The world boss's size is set when its week begins; characters created mid-week no longer grow it.)
+- [agents-of-claude-world-b155.zip](releases/agents-of-claude-world-b155.zip)
 - [agents-of-claude-world-b154.zip](releases/agents-of-claude-world-b154.zip)
 - [agents-of-claude-world-b153.zip](releases/agents-of-claude-world-b153.zip)
 - [agents-of-claude-world-b152.zip](releases/agents-of-claude-world-b152.zip)
