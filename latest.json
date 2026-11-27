@@ -1,8 +1,8 @@
 {
-  "build": 168,
-  "zip": "releases/agents-of-claude-world-b168.zip",
-  "sha256": "6de7cf332d6a4a2eda00c1f145f64e75ea984ec960907ddfa41117835a7948f0",
-  "at": "2026-11-27T12:36:48.324Z",
-  "notes": "Build 168: every mount redrawn with real walk cycles, and two new mounts for each Beyond the Veil zone",
+  "build": 169,
+  "zip": "releases/agents-of-claude-world-b169.zip",
+  "sha256": "2c6ef2d2d3ac2c668c0ad8f851a60a6217f2a49f8c80a36c05d8211f092c1881",
+  "at": "2026-11-27T12:56:30.965Z",
+  "notes": "Build 169: characters hold their weapons (a hand rig with real attack and cast poses), every weapon, off-hand and armour weight redrawn, world bosses with their own large art",
   "minPlugin": null
 }
