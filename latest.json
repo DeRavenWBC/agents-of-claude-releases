@@ -1,8 +1,8 @@
 {
-  "build": 165,
-  "zip": "releases/agents-of-claude-world-b165.zip",
-  "sha256": "a160beb85876bbdd9c25dd49d26329fccacd78283ef6a9c98d01994609a484de",
-  "at": "2026-11-27T11:10:07.913Z",
-  "notes": "Build 165: every creature redrawn with its own animated art; the Forge shows your ascension materials and which items qualify",
+  "build": 166,
+  "zip": "releases/agents-of-claude-world-b166.zip",
+  "sha256": "8f158352ed90c9dbcc92a0b9f17c7e4c4a3be99f33f5c033fd4f0d09c7c931db",
+  "at": "2026-11-27T11:13:46.829Z",
+  "notes": "Build 166: the older zones' fight scenes repainted, a What's new tour for the Forge, the tavern crowd spread out",
   "minPlugin": null
 }
