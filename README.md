@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b158.zip](releases/agents-of-claude-world-b158.zip) (latest: Fix: a new family character could stay on 'Checking the guild board' without its progress or starter kit.)
+- [agents-of-claude-world-b159.zip](releases/agents-of-claude-world-b159.zip) (latest: Raid difficulties (Normal, Heroic, Mythic) with their own weekly lockouts; six-raider replays read cleanly; raid invite fixes.)
+- [agents-of-claude-world-b158.zip](releases/agents-of-claude-world-b158.zip)
 - [agents-of-claude-world-b157.zip](releases/agents-of-claude-world-b157.zip)
 - [agents-of-claude-world-b156.zip](releases/agents-of-claude-world-b156.zip)
 - [agents-of-claude-world-b155.zip](releases/agents-of-claude-world-b155.zip)

@@ -1,8 +1,8 @@
 {
-  "build": 158,
-  "zip": "releases/agents-of-claude-world-b158.zip",
-  "sha256": "a50f143fe289bc3ed3976f855d5e80e476fa3f8c14464e36234cdd175cd4f9ce",
-  "at": "2026-11-27T07:39:06.148Z",
-  "notes": "Fix: a new family character could stay on 'Checking the guild board' without its progress or starter kit.",
+  "build": 159,
+  "zip": "releases/agents-of-claude-world-b159.zip",
+  "sha256": "2c8cf98b344c62675ca0a6be81f75c81b3b00d6784bb7872d8f6447fec0f55ae",
+  "at": "2026-11-27T07:58:00.095Z",
+  "notes": "Raid difficulties (Normal, Heroic, Mythic) with their own weekly lockouts; six-raider replays read cleanly; raid invite fixes.",
   "minPlugin": "0.6.3"
 }
