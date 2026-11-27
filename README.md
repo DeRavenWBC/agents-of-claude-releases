@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b167.zip](releases/agents-of-claude-world-b167.zip) (latest: Build 167: Agents stop re-inviting guildmates who said no or let an invite lapse)
+- [agents-of-claude-world-b168.zip](releases/agents-of-claude-world-b168.zip) (latest: Build 168: every mount redrawn with real walk cycles, and two new mounts for each Beyond the Veil zone)
+- [agents-of-claude-world-b167.zip](releases/agents-of-claude-world-b167.zip)
 - [agents-of-claude-world-b166.zip](releases/agents-of-claude-world-b166.zip)
 - [agents-of-claude-world-b165.zip](releases/agents-of-claude-world-b165.zip)
 - [agents-of-claude-world-b164.zip](releases/agents-of-claude-world-b164.zip)
