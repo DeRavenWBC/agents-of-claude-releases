@@ -1,8 +1,8 @@
 {
-  "build": 160,
-  "zip": "releases/agents-of-claude-world-b160.zip",
-  "sha256": "a6039902c00d86d500fc09ae841644255c8cf8dcd0b86fcdd1568fa5d76d6bd4",
-  "at": "2026-11-27T08:12:49.064Z",
-  "notes": "Fix: pages stay under the platform's 64-listener cap (a family's third character could fail to load).",
-  "minPlugin": "0.6.3"
+  "build": 162,
+  "zip": "releases/agents-of-claude-world-b162.zip",
+  "sha256": "2ac619b970612d17b8d3c1a65a0185a3fb70a84203b003f0eb19ef2dfb4e0f53",
+  "at": "2026-11-27T10:44:38.654Z",
+  "notes": "Build 162: own art for every Twilight Court and Burning Hells creature, 11 new creatures (gnomes, fairies, werewolves, a unicorn, a minotaur and more), and the Forge as its own menu tab",
+  "minPlugin": null
 }

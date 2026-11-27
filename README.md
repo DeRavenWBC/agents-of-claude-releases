@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b160.zip](releases/agents-of-claude-world-b160.zip) (latest: Fix: pages stay under the platform's 64-listener cap (a family's third character could fail to load).)
+- [agents-of-claude-world-b162.zip](releases/agents-of-claude-world-b162.zip) (latest: Build 162: own art for every Twilight Court and Burning Hells creature, 11 new creatures (gnomes, fairies, werewolves, a unicorn, a minotaur and more), and the Forge as its own menu tab)
+- [agents-of-claude-world-b160.zip](releases/agents-of-claude-world-b160.zip)
 - [agents-of-claude-world-b159.zip](releases/agents-of-claude-world-b159.zip)
 - [agents-of-claude-world-b158.zip](releases/agents-of-claude-world-b158.zip)
 - [agents-of-claude-world-b157.zip](releases/agents-of-claude-world-b157.zip)
