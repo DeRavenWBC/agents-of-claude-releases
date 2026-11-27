@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b162.zip](releases/agents-of-claude-world-b162.zip) (latest: Build 162: own art for every Twilight Court and Burning Hells creature, 11 new creatures (gnomes, fairies, werewolves, a unicorn, a minotaur and more), and the Forge as its own menu tab)
+- [agents-of-claude-world-b164.zip](releases/agents-of-claude-world-b164.zip) (latest: Build 164: the tavern is a 3D room with darts, cards, liar's dice, arm wrestling and chess (skills and small capped bets); the crowd spreads over the furniture)
+- [agents-of-claude-world-b162.zip](releases/agents-of-claude-world-b162.zip)
 - [agents-of-claude-world-b160.zip](releases/agents-of-claude-world-b160.zip)
 - [agents-of-claude-world-b159.zip](releases/agents-of-claude-world-b159.zip)
 - [agents-of-claude-world-b158.zip](releases/agents-of-claude-world-b158.zip)
