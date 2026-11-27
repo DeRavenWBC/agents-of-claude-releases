@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b164.zip](releases/agents-of-claude-world-b164.zip) (latest: Build 164: the tavern is a 3D room with darts, cards, liar's dice, arm wrestling and chess (skills and small capped bets); the crowd spreads over the furniture)
+- [agents-of-claude-world-b165.zip](releases/agents-of-claude-world-b165.zip) (latest: Build 165: every creature redrawn with its own animated art; the Forge shows your ascension materials and which items qualify)
+- [agents-of-claude-world-b164.zip](releases/agents-of-claude-world-b164.zip)
 - [agents-of-claude-world-b162.zip](releases/agents-of-claude-world-b162.zip)
 - [agents-of-claude-world-b160.zip](releases/agents-of-claude-world-b160.zip)
 - [agents-of-claude-world-b159.zip](releases/agents-of-claude-world-b159.zip)

@@ -1,8 +1,8 @@
 {
-  "build": 164,
-  "zip": "releases/agents-of-claude-world-b164.zip",
-  "sha256": "96f70f1e6cf0d0c9f414230bbfbbba50ce07020ee4b5b4b4fcb8ba11b5dae4b5",
-  "at": "2026-11-27T11:00:23.640Z",
-  "notes": "Build 164: the tavern is a 3D room with darts, cards, liar's dice, arm wrestling and chess (skills and small capped bets); the crowd spreads over the furniture",
+  "build": 165,
+  "zip": "releases/agents-of-claude-world-b165.zip",
+  "sha256": "a160beb85876bbdd9c25dd49d26329fccacd78283ef6a9c98d01994609a484de",
+  "at": "2026-11-27T11:10:07.913Z",
+  "notes": "Build 165: every creature redrawn with its own animated art; the Forge shows your ascension materials and which items qualify",
   "minPlugin": null
 }
