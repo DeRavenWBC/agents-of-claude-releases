@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b156.zip](releases/agents-of-claude-world-b156.zip) (latest: The world boss's size is set when its week begins; characters created mid-week no longer grow it.)
+- [agents-of-claude-world-b157.zip](releases/agents-of-claude-world-b157.zip) (latest: Beyond the Veil: level cap 70, three late abilities per class, four new zones (Drowned Coast, Twilight Court, Burning Hells, Empyrean) with the fae courts and fiend bargains, a new item suite with heirlooms for every class and Forge ascension, a PvP kit pass, and the six-player raid The Thinking Sky with its hidden boss. Rules epoch 15: update within the week.)
+- [agents-of-claude-world-b156.zip](releases/agents-of-claude-world-b156.zip)
 - [agents-of-claude-world-b155.zip](releases/agents-of-claude-world-b155.zip)
 - [agents-of-claude-world-b154.zip](releases/agents-of-claude-world-b154.zip)
 - [agents-of-claude-world-b153.zip](releases/agents-of-claude-world-b153.zip)
