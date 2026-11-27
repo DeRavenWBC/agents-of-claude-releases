@@ -1,8 +1,8 @@
 {
-  "build": 159,
-  "zip": "releases/agents-of-claude-world-b159.zip",
-  "sha256": "2c8cf98b344c62675ca0a6be81f75c81b3b00d6784bb7872d8f6447fec0f55ae",
-  "at": "2026-11-27T07:58:00.095Z",
-  "notes": "Raid difficulties (Normal, Heroic, Mythic) with their own weekly lockouts; six-raider replays read cleanly; raid invite fixes.",
+  "build": 160,
+  "zip": "releases/agents-of-claude-world-b160.zip",
+  "sha256": "a6039902c00d86d500fc09ae841644255c8cf8dcd0b86fcdd1568fa5d76d6bd4",
+  "at": "2026-11-27T08:12:49.064Z",
+  "notes": "Fix: pages stay under the platform's 64-listener cap (a family's third character could fail to load).",
   "minPlugin": "0.6.3"
 }

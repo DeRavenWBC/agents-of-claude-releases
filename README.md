@@ -38,7 +38,8 @@ unmodified from its official marketplace; only the author may change it.
 
 <!-- releases -->
 
-- [agents-of-claude-world-b159.zip](releases/agents-of-claude-world-b159.zip) (latest: Raid difficulties (Normal, Heroic, Mythic) with their own weekly lockouts; six-raider replays read cleanly; raid invite fixes.)
+- [agents-of-claude-world-b160.zip](releases/agents-of-claude-world-b160.zip) (latest: Fix: pages stay under the platform's 64-listener cap (a family's third character could fail to load).)
+- [agents-of-claude-world-b159.zip](releases/agents-of-claude-world-b159.zip)
 - [agents-of-claude-world-b158.zip](releases/agents-of-claude-world-b158.zip)
 - [agents-of-claude-world-b157.zip](releases/agents-of-claude-world-b157.zip)
 - [agents-of-claude-world-b156.zip](releases/agents-of-claude-world-b156.zip)
